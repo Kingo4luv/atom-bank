@@ -9,11 +9,8 @@ A simple api to simulate bank transfer in nextjs
 ## Installation
 
 1. clone repo
-2. cd in atom-bank
-
-```bash
-$ npm install
-```
+2. cd into atom-bank
+3. run ```$ npm install```
 
 ## Running the app
 
