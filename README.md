@@ -1,15 +1,16 @@
-<p align="center">
-  ### Atom Bank
-</p>
+### Atom Bank
+
 
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A simple api to simulate bank transfer in nextjs
 
 ## Installation
+1. clone repo
+2. cd in atom-bank
 
-```bash
+3.```bash
 $ npm install
 ```
 
@@ -26,6 +27,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## License
+## Api documentation for localhost
+[Api Doccumenation](http://localhost:3000/api) web page.
+[Api Doccumenation JSON](http://localhost:3000/api-json) Json Format.
 
-Nest is [MIT licensed](LICENSE).
