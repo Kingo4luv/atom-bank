@@ -31,5 +31,3 @@ $ npm run start:prod
 
 1. [Api Documentation](http://localhost:3000/api) web page.
 2. [Api Documentation JSON](http://localhost:3000/api-json) Json Format.
-
-
