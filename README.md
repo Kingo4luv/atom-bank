@@ -10,7 +10,9 @@ A simple api to simulate bank transfer in nextjs
 
 1. clone repo
 2. cd into atom-bank
-3. run ```$ npm install```
+3. run ``` $ cp cp .env.example .env .env ``` 
+4. open .env and add required env data
+5. run ```$ npm install```
 
 ## Running the app
 
